@@ -1,0 +1,6 @@
+{
+  "name": "TapCard Studio — QR Social Launcher & Mini-Portfolio",
+  "description": "An NFC-style QR code studio and instant mobile pop-up portfolio that launches native social media apps and multi-account follow queues on scan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
